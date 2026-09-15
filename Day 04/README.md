@@ -91,6 +91,7 @@ While both `CMD` and `ENTRYPOINT` define what commands should run in a container
 - **Stop all running containers**: `docker stop $(docker ps -q)`
 - **Restart a container**: `docker restart <container_id>`
 - **Delete a specific container**: `docker rm <container_id>`
+- `docker rm -f $(docker ps -aq)`
 - **Delete all stopped containers**: `docker container prune`
 
 ### **Image Management**
