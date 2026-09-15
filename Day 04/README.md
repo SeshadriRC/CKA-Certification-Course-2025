@@ -98,6 +98,7 @@ While both `CMD` and `ENTRYPOINT` define what commands should run in a container
 - **Dangling images**: Images that are no longer tagged or associated with any container.
 - **Delete a specific image**: `docker rmi <image_id>`
 - **Delete all unused images (including dangling images)**: `docker image prune -a`
+- `docker rmi -f $(docker images)`
 
 ---
 
