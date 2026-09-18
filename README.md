@@ -42,6 +42,9 @@ git clone https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025.git
 ```bash
 cd CKA-Certification-Course-2025/Day1
 ```
+
+- **Day-8**: Kind
+
 ##  Stay Connected!  
 
 - Follow me on **[LinkedIn: Varun Joshi](https://www.linkedin.com/in/varun-joshi-2b516752/)**  
