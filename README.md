@@ -44,6 +44,7 @@ cd CKA-Certification-Course-2025/Day1
 ```
 
 - **Day-8**: Kind
+- **Day-9**: Yaml
 
 ##  Stay Connected!  
 
