@@ -24,3 +24,7 @@ kubectl edit rc nginx-rc
 
 <img width="842" height="110" alt="image" src="https://github.com/user-attachments/assets/4d642ffa-14a5-4eea-b807-29c4f3975e56" />
 
+- I edited to `3`
+
+<img width="918" height="291" alt="image" src="https://github.com/user-attachments/assets/262e1df9-88e7-4765-9743-62f7332eeefc" />
+
