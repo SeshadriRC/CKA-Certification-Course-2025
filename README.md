@@ -45,6 +45,7 @@ cd CKA-Certification-Course-2025/Day1
 
 - **Day-8**: Kind
 - **Day-9**: Yaml
+- **Day-10**: [RC-RS-Deployment]([Replication-sets-controllers](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2010))
 
 ##  Stay Connected!  
 
