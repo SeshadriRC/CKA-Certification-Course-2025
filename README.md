@@ -46,6 +46,8 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-8**: Kind
 - **Day-9**: Yaml
 - **Day-10**: [RC-RS-Deployment](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2010)
+- **Day-11**: [MicroServices](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2011)
+- **Day-12**: [Services-and-types](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2012)
 
 ##  Stay Connected!  
 
