@@ -55,6 +55,10 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-10**: [RC-RS-Deployment](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2010)
 - **Day-11**: [MicroServices](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2011)
 - **Day-12**: [Services-and-types](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2012)
+- **Day-13**: [Imperative-commands](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2013)
+- **Day-14**: [Kubernetes-Namespaces](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2014)
+- **Day-15**: [Manual-Scheduling-Static-pods](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2015)
+- **Day-16**: [Kubernetes-Taints-Tolerations](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2016)
 
 ##  Stay Connected!  
 
