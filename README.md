@@ -43,8 +43,15 @@ git clone https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025.git
 cd CKA-Certification-Course-2025/Day1
 ```
 
-- **Day-8**: Kind
-- **Day-9**: Yaml
+- **Day-1**: [Docker-Fundamentals](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2001)
+- **Day-2**: [Write-your-first-dockerfile](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2002)
+- **Day-3**: [Exposing containers](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2003)
+- **Day-4**: [Docker Flags](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2004)
+- **Day-5**: [Docker Multistage](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2005)
+- **Day-6**: [What is Kubernetes](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2006)
+- **Day-7**: [Kubernetes Architecture](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2007)
+- **Day-8**: [Kind](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2008)
+- **Day-9**: [Yaml](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2009)
 - **Day-10**: [RC-RS-Deployment](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2010)
 - **Day-11**: [MicroServices](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2011)
 - **Day-12**: [Services-and-types](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2012)
