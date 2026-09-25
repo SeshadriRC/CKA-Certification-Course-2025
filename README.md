@@ -59,6 +59,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-14**: [Kubernetes-Namespaces](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2014)
 - **Day-15**: [Manual-Scheduling-Static-pods](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2015)
 - **Day-16**: [Kubernetes-Taints-Tolerations](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2016)
+- **Day-17**: [Mastering Node Selector & Node Affinity](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2017)
 
 ##  Stay Connected!  
 
