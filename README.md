@@ -60,6 +60,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-15**: [Manual-Scheduling-Static-pods](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2015)
 - **Day-16**: [Kubernetes-Taints-Tolerations](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2016)
 - **Day-17**: [Mastering Node Selector & Node Affinity](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2017)
+- **Day-18**: [Taints-and-Tolerations vs Node Affinity](https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025/tree/main/Day%2018)
 
 ##  Stay Connected!  
 
