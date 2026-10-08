@@ -63,6 +63,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-18**: [Taints-and-Tolerations vs Node Affinity](https://github.com/CloudWithVarJosh/CKA-Certification-Course-2025/tree/main/Day%2018)
 - **Day-19**: [Requests-Limits-LimitRange](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2019)
 - **Day-20**: [HPA vs VPA](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2020)
+- **Day-21**: [Multi Container Pods](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2021)
 
 ##  Stay Connected!  
 
