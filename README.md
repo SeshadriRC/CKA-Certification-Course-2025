@@ -64,6 +64,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-19**: [Requests-Limits-LimitRange](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2019)
 - **Day-20**: [HPA vs VPA](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2020)
 - **Day-21**: [Multi Container Pods](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2021)
+- **Day-22**: [Kubernetes Pod Termination](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2022)
 
 ##  Stay Connected!  
 
