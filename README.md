@@ -67,6 +67,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-22**: [Kubernetes Pod Termination](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2022)
 - **Day-23**: [Kubernetes Health Probes](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2023)
 - **Day-24**: [Docker Volumes](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2024)
+- **Day-25**: [Kubernetes-Core-and-Extensions](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2025)
 
 ##  Stay Connected!  
 
