@@ -69,6 +69,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-24**: [Docker Volumes](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2024)
 - **Day-25**: [Kubernetes-Core-and-Extensions](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2025)
 - **Day-26**: [Kubernetes-Volumes-Ephemeral-Storage](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2026)
+- **Day-27**: [Kubernetes-Volume-PV-PVC](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2027)
 
 ##  Stay Connected!  
 
