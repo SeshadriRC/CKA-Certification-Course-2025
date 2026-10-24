@@ -72,6 +72,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-27**: [Kubernetes-Volume-PV-PVC](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2027)
 - **Day-28**: [ConfigMaps-and-Secrets](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2028)
 - **Day-29**: [MASTER DaemonSet, Job & CronJob](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2029#day-29-master-daemonset-job--cronjob-in-kubernetes--with-detailed-demos--cka-course-2025)
+- **Day-30**: [How HTTPS & SSH Work | What is Encryption? | Symmetric & Asymmetric Encryption](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2030)
 
 ##  Stay Connected!  
 
