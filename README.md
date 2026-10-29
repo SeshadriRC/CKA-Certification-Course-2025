@@ -74,6 +74,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-29**: [MASTER DaemonSet, Job & CronJob](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2029#day-29-master-daemonset-job--cronjob-in-kubernetes--with-detailed-demos--cka-course-2025)
 - **Day-30**: [How HTTPS & SSH Work | What is Encryption? | Symmetric & Asymmetric Encryption](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2030)
 - **Day-31**: [TLS in Kubernetes MASTERCLASS | PART 1 | Mutual Auth (SSH), TLS 1.3, Types of CAs](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2031#day-31-tls-in-kubernetes-masterclass--part-1--mutual-auth-ssh-tls-13-types-of-cas--cka-2025)
+- **Day-32**: [TLS in Kubernetes MASTERCLASS | PART 2 | mTLS , kubeconfig & Kubernetes Context](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2032)
 
 ##  Stay Connected!  
 
