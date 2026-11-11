@@ -76,6 +76,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-31**: [TLS in Kubernetes MASTERCLASS | PART 1 | Mutual Auth (SSH), TLS 1.3, Types of CAs](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2031#day-31-tls-in-kubernetes-masterclass--part-1--mutual-auth-ssh-tls-13-types-of-cas--cka-2025)
 - **Day-32**: [TLS in Kubernetes MASTERCLASS | PART 2 | mTLS , kubeconfig & Kubernetes Context](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2032)
 - **Day-33**: [TLS in Kubernetes MASTERCLASS | PART 3 | Private CAs, TLS Auth Flow, mTLS in Kubernetes Cluster](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2033)
+- **Day-34**: [TLS in Kubernetes MASTERCLASS | PART 4 | CSR, External User Access to K8S Cluster | CKA 2025](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2034)
 
 ##  Stay Connected!  
 
