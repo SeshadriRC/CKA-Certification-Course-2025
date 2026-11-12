@@ -79,6 +79,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-34**: [TLS in Kubernetes MASTERCLASS | PART 4 | CSR, External User Access to K8S Cluster | CKA 2025](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2034)
 - **Day-35**: [MASTER Kubernetes Authorization Modes and Kubernetes API | CKA Course 2025](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2035)
 - **Day-36**: [Deep Dive into Kubernetes RBAC Authorization | CKA Course 2025](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2036)
+- **Day-37**: [MASTER Kubernetes Service Accounts & Authentication](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2037#day-37-master-kubernetes-service-accounts--authentication--cka-course-2025)
 
 ##  Stay Connected!  
 
