@@ -82,6 +82,8 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-37**: [MASTER Kubernetes Service Accounts & Authentication](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2037#day-37-master-kubernetes-service-accounts--authentication--cka-course-2025)
 - **Day-38**: [Admission Controllers in Kubernetes | Mutating & Validating | CKA Course 2025](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2038#day-38-admission-controllers-in-kubernetes--mutating--validating--cka-course-2025)
 - **Day-39**: [Custom Resources (CR) and Custom Resource Definitions (CRD) Explained with Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2039#day-39-custom-resources-cr-and-custom-resource-definitions-crd-explained-with-demo--cka-course-2025)
+- **Day-40**: [Kubernetes Operators Deep Dive with Hands-On Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2040)
+- **Day-41**: [Pod Security in Kubernetes – Mastering Security Context & Linux Capabilities](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2041)
 
 ##  Stay Connected!  
 
