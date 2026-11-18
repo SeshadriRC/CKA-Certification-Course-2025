@@ -84,6 +84,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-39**: [Custom Resources (CR) and Custom Resource Definitions (CRD) Explained with Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2039#day-39-custom-resources-cr-and-custom-resource-definitions-crd-explained-with-demo--cka-course-2025)
 - **Day-40**: [Kubernetes Operators Deep Dive with Hands-On Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2040)
 - **Day-41**: [Pod Security in Kubernetes – Mastering Security Context & Linux Capabilities](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2041)
+- **Day-42**: [Kubernetes Kustomize Explained with Practical Demos](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2042)
 
 ##  Stay Connected!  
 
