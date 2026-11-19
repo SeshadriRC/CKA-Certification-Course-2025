@@ -85,7 +85,9 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-40**: [Kubernetes Operators Deep Dive with Hands-On Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2040)
 - **Day-41**: [Pod Security in Kubernetes – Mastering Security Context & Linux Capabilities](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2041)
 - **Day-42**: [Kubernetes Kustomize Explained with Practical Demos](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2042)
-
+- **Day-43**: [Helm Charts for Beginners | Helm in Kubernetes with 3 Practical Demos](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2043)
+- **Day-44**: [MASTER StatefulSets in Kubernetes | Real-World Multi-AZ Amazon EKS Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2044#day-44-master-statefulsets-in-kubernetes--real-world-multi-az-amazon-eks-demo--cka-course-2025)
+  
 ##  Stay Connected!  
 
 - Follow me on **[LinkedIn: Varun Joshi](https://www.linkedin.com/in/varun-joshi-2b516752/)**  
