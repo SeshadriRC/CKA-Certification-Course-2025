@@ -87,6 +87,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-42**: [Kubernetes Kustomize Explained with Practical Demos](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2042)
 - **Day-43**: [Helm Charts for Beginners | Helm in Kubernetes with 3 Practical Demos](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2043)
 - **Day-44**: [MASTER StatefulSets in Kubernetes | Real-World Multi-AZ Amazon EKS Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2044#day-44-master-statefulsets-in-kubernetes--real-world-multi-az-amazon-eks-demo--cka-course-2025)
+- **Day-45**: [Pull Private Images in Kubernetes with imagePullSecrets & ServiceAccount](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2045)
   
 ##  Stay Connected!  
 
