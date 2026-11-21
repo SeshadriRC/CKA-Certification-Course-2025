@@ -36,6 +36,40 @@ RUN mvn clean package -DskipTests
 CMD ["sh", "-c", "java -jar target/*.jar"]
 ```
 
+Here, `-c` stands for **command** in the `sh` shell.
+
+```
+CMD ["sh", "-c", "java -jar target/*.jar"]
+```
+
+**Explanation:**
+
+- `sh` – Starts a shell.
+- `-c` – Tells the shell to execute the command provided as the next argument.
+- `"java -jar target/*.jar"` – The command that the shell executes.
+
+**Why do we use&#x20;**`sh -c`**&#x20;here?**
+
+Because `target/*.jar` contains a wildcard (`*`).
+
+The shell expands the wildcard to the actual JAR filename before executing the Java command.
+
+For example:
+
+```
+java -jar target/myapp-1.0.jar
+```
+
+**Without&#x20;**`sh -c`**:**
+
+```
+CMD ["java", "-jar", "target/*.jar"]
+```
+
+Docker passes `target/*.jar` directly to Java. Java does not expand the wildcard, so it may fail to find the JAR file.
+
+**Interview tip:** `sh -c` is used when you want shell features such as wildcard expansion, variable expansion, pipes, or command chaining (`&&`) inside a Docker command.
+
 Build and run:
 
 ```
