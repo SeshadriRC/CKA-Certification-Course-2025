@@ -89,6 +89,7 @@ cd CKA-Certification-Course-2025/Day1
 - **Day-44**: [MASTER StatefulSets in Kubernetes | Real-World Multi-AZ Amazon EKS Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2044#day-44-master-statefulsets-in-kubernetes--real-world-multi-az-amazon-eks-demo--cka-course-2025)
 - **Day-45**: [Pull Private Images in Kubernetes with imagePullSecrets & ServiceAccount](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2045)
 - **Day-46**: [Pod Priority, PriorityClass, and Preemption in Kubernetes](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2046#day-46-pod-priority-priorityclass-and-preemption-in-kubernetes--cka-course-2025)
+- **Day-47**: [Kubernetes Network Policies Explained with Real-World Demo](https://github.com/SeshadriRC/CKA-Certification-Course-2025/tree/main/Day%2047)
   
 ##  Stay Connected!  
 
